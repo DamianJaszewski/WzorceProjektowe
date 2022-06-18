@@ -1,0 +1,1 @@
+public class Pozycja2 extends PozycjaZamowienia {}
